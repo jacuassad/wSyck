@@ -1,0 +1,102 @@
+object ShowItem: TShowItem
+  Left = 0
+  Top = 0
+  BorderStyle = bsSizeToolWin
+  Caption = 'Item'
+  ClientHeight = 193
+  ClientWidth = 157
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object gItem: TGroupBox
+    Left = 8
+    Top = 8
+    Width = 141
+    Height = 180
+    TabOrder = 0
+    object eID: TLabeledEdit
+      Left = 10
+      Top = 25
+      Width = 121
+      Height = 21
+      EditLabel.Width = 11
+      EditLabel.Height = 13
+      EditLabel.Caption = 'ID'
+      ReadOnly = True
+      TabOrder = 0
+    end
+    object eEF1: TLabeledEdit
+      Left = 10
+      Top = 65
+      Width = 55
+      Height = 21
+      EditLabel.Width = 18
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EF1'
+      ReadOnly = True
+      TabOrder = 1
+    end
+    object eEFV1: TLabeledEdit
+      Left = 75
+      Top = 65
+      Width = 55
+      Height = 21
+      EditLabel.Width = 24
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EFV1'
+      ReadOnly = True
+      TabOrder = 2
+    end
+    object eEF2: TLabeledEdit
+      Left = 10
+      Top = 105
+      Width = 55
+      Height = 21
+      EditLabel.Width = 18
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EF2'
+      ReadOnly = True
+      TabOrder = 3
+    end
+    object eEFV2: TLabeledEdit
+      Left = 75
+      Top = 105
+      Width = 55
+      Height = 21
+      EditLabel.Width = 24
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EFV2'
+      ReadOnly = True
+      TabOrder = 4
+    end
+    object eEF3: TLabeledEdit
+      Left = 10
+      Top = 148
+      Width = 55
+      Height = 21
+      EditLabel.Width = 18
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EF3'
+      ReadOnly = True
+      TabOrder = 5
+    end
+    object eEFV3: TLabeledEdit
+      Left = 75
+      Top = 148
+      Width = 55
+      Height = 21
+      EditLabel.Width = 24
+      EditLabel.Height = 13
+      EditLabel.Caption = 'EFV3'
+      ReadOnly = True
+      TabOrder = 6
+    end
+  end
+end
