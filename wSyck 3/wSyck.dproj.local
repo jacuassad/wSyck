@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/08/31 23:11:39.000.653,C:\Users\Einhardt\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Einhardt\Desktop\wSyck\wSyck.dproj</Transaction>
+    <Transaction>2012/08/31 23:11:50.000.304,=C:\Users\Einhardt\Desktop\wSyck\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 23:11:56.000.885,C:\Users\Einhardt\Desktop\wSyck\Unit1.dfm=C:\Users\Einhardt\Desktop\wSyck\wHome.dfm</Transaction>
+    <Transaction>2012/08/31 23:11:56.000.885,C:\Users\Einhardt\Desktop\wSyck\Unit1.pas=C:\Users\Einhardt\Desktop\wSyck\wHome.pas</Transaction>
+    <Transaction>2012/08/31 23:14:53.000.286,=C:\Users\Einhardt\Desktop\wSyck\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 23:15:00.000.123,C:\Users\Einhardt\Desktop\wSyck\Unit1.pas=C:\Users\Einhardt\Desktop\wSyck\wFunc.pas</Transaction>
+    <Transaction>2012/08/31 23:15:05.000.927,=C:\Users\Einhardt\Desktop\wSyck\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 23:15:20.000.326,C:\Users\Einhardt\Desktop\wSyck\Unit1.pas=C:\Users\Einhardt\Desktop\wSyck\wStructs.pas</Transaction>
+    <Transaction>2012/08/31 23:15:34.000.409,C:\Users\Einhardt\Desktop\wSyck\wFunc.pas=C:\Users\Einhardt\Desktop\wSyck\wFunctions.pas</Transaction>
+    <Transaction>2012/08/31 23:16:19.000.995,=C:\Users\Einhardt\Desktop\wSyck\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 23:16:27.000.698,C:\Users\Einhardt\Desktop\wSyck\Unit1.pas=C:\Users\Einhardt\Desktop\wSyck\wAddr.pas</Transaction>
+    <Transaction>2012/08/31 23:16:47.000.393,=C:\Users\Einhardt\Desktop\wSyck\Unit1.pas</Transaction>
+    <Transaction>2012/08/31 23:17:07.000.739,C:\Users\Einhardt\Desktop\wSyck\Unit1.pas=C:\Users\Einhardt\Desktop\wSyck\wHacks.pas</Transaction>
+    <Transaction>2012/08/31 23:17:19.000.799,C:\Users\Einhardt\Desktop\wSyck\wAddr.pas=C:\Users\Einhardt\Desktop\wSyck\wAddrs.pas</Transaction>
+  </Transactions>
+</BorlandProject>

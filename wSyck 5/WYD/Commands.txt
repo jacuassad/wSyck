@@ -1,0 +1,33 @@
+move
+move 2100 2100
+buy
+clicknpc
+sell
+amount
+amount 412
+amount 413
+reamount
+opencargo
+revive
+party
+chat
+sec on
+sec off
+onehit on
+onehit off
+inv on
+inv off
+soul
+equip
+inventory
+fakeitem
+numeric on 0 9999 4 +
+numeric on 0 9999 4 -
+numeric on 0 99999 5 +
+numeric on 0 999999 6 +
+numeric off
+numeric continue
+erase all
+range
+vender on 4731
+vender off

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/09/06 13:34:35.000.585,=C:\Users\Luan\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 13:35:09.000.798,C:\Users\Luan\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Luan\Desktop\wSyck\Source\wInterface.pas</Transaction>
+    <Transaction>2013/09/06 13:35:09.000.798,C:\Users\Luan\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Luan\Desktop\wSyck\Source\wInterface.dfm</Transaction>
+    <Transaction>2013/09/06 13:35:17.000.639,C:\Users\Luan\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Luan\Desktop\wSyck\Source\wSyck.dproj</Transaction>
+    <Transaction>2013/09/06 13:43:10.000.543,=C:\Users\Luan\Desktop\wSyck\Source\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 13:43:17.000.993,=C:\Users\Luan\Desktop\wSyck\Source\Unit2.pas</Transaction>
+    <Transaction>2013/09/06 13:43:32.000.326,C:\Users\Luan\Desktop\wSyck\Source\Unit1.pas=C:\Users\Luan\Desktop\wSyck\Source\wAddr.pas</Transaction>
+    <Transaction>2013/09/06 13:43:45.000.232,C:\Users\Luan\Desktop\wSyck\Source\Unit2.pas=C:\Users\Luan\Desktop\wSyck\Source\wPacket.pas</Transaction>
+    <Transaction>2013/09/06 17:42:28.000.787,C:\Users\Luan\Desktop\wSyck\Source\wSyck.dproj=C:\Users\Luan\Desktop\wSyCk 1.0\wSyck.dproj</Transaction>
+    <Transaction>2013/09/06 17:43:06.000.422,C:\Users\Luan\Desktop\wSyck\Source\wPacket.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wPacket.pas</Transaction>
+    <Transaction>2013/09/06 17:43:26.000.532,C:\Users\Luan\Desktop\wSyck\Source\wAddr.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wAddr.pas</Transaction>
+    <Transaction>2013/09/06 17:43:42.000.250,C:\Users\Luan\Desktop\wSyck\Source\wInterface.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wInterface.pas</Transaction>
+    <Transaction>2013/09/06 17:43:42.000.250,C:\Users\Luan\Desktop\wSyck\Source\wInterface.dfm=C:\Users\Luan\Desktop\wSyCk 1.0\wInterface.dfm</Transaction>
+    <Transaction>2013/09/06 17:45:24.000.575,=C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 17:45:28.000.802,=C:\Users\Luan\Desktop\wSyCk 1.0\Unit2.pas</Transaction>
+    <Transaction>2013/09/06 17:45:43.000.683,C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wClient.pas</Transaction>
+    <Transaction>2013/09/06 17:46:21.000.111,C:\Users\Luan\Desktop\wSyCk 1.0\Unit2.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wDefines.pas</Transaction>
+    <Transaction>2013/09/06 17:46:25.000.629,=C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 17:46:40.000.825,C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wFunc.pas</Transaction>
+    <Transaction>2013/09/06 17:46:45.000.574,=C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 17:46:52.000.499,C:\Users\Luan\Desktop\wSyCk 1.0\Unit1.pas=C:\Users\Luan\Desktop\wSyCk 1.0\wHacks.pas</Transaction>
+    <Transaction>2013/09/06 17:55:24.000.377,C:\Users\Luan\Desktop\wSyCk 1.0\wSyck.dproj=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Main.dproj</Transaction>
+    <Transaction>2013/09/06 17:56:20.000.035,C:\Users\Luan\Desktop\wSyCk 1.0\wInterface.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.View.pas</Transaction>
+    <Transaction>2013/09/06 17:56:20.000.035,C:\Users\Luan\Desktop\wSyCk 1.0\wInterface.dfm=C:\Users\Luan\Desktop\wSyck 2013\wSyck.View.dfm</Transaction>
+    <Transaction>2013/09/06 17:56:38.000.825,C:\Users\Luan\Desktop\wSyCk 1.0\wAddr.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Addrs.pas</Transaction>
+    <Transaction>2013/09/06 17:56:57.000.551,C:\Users\Luan\Desktop\wSyCk 1.0\wPacket.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Packet.pas</Transaction>
+    <Transaction>2013/09/06 17:57:16.000.797,C:\Users\Luan\Desktop\wSyCk 1.0\wClient.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Client.pas</Transaction>
+    <Transaction>2013/09/06 17:57:35.000.213,C:\Users\Luan\Desktop\wSyCk 1.0\wDefines.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Defines.pas</Transaction>
+    <Transaction>2013/09/06 17:57:55.000.226,C:\Users\Luan\Desktop\wSyCk 1.0\wFunc.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Functions.pas</Transaction>
+    <Transaction>2013/09/06 17:58:15.000.613,C:\Users\Luan\Desktop\wSyCk 1.0\wHacks.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Hacks.pas</Transaction>
+    <Transaction>2013/09/06 18:55:31.000.656,C:\Users\Luan\Desktop\wSyck 2013\wSyck.dproj=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Main.dproj</Transaction>
+    <Transaction>2013/09/06 19:00:18.000.914,=C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas</Transaction>
+    <Transaction>2013/09/06 19:00:33.000.663,C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Basics.pas</Transaction>
+    <Transaction>2013/09/08 02:52:41.000.936,=C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas</Transaction>
+    <Transaction>2013/09/08 02:52:58.000.627,C:\Users\Luan\Desktop\wSyck 2013\wSyck.Game.pas=C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas</Transaction>
+    <Transaction>2013/09/08 19:11:12.000.805,=C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas</Transaction>
+    <Transaction>2013/09/08 19:11:34.000.299,C:\Users\Luan\Desktop\wSyck 2013\Unit1.pas=C:\Users\Luan\Desktop\wSyck 2013\wSyck.Event.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="wSyck.Addrs.pas"/>
+    <File Path="wSyck.Basics.pas"/>
+    <File Path="wSyck.Client.pas"/>
+    <File Path="wSyck.Defines.pas"/>
+    <File Path="wSyck.Functions.pas"/>
+    <File Path="wSyck.Hacks.pas"/>
+    <File Path="wSyck.Packet.pas"/>
+    <File Path="wSyck.View.pas"/>
+    <File Path="wSyck.View.dfm"/>
+    <File Path="wSyck.Game.pas"/>
+    <File Path="wSyck.Event.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
